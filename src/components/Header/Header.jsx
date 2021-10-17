@@ -5,7 +5,7 @@ export default function Header(){
     return(
         <>
             <Container>
-                <h1>Cats🐱</h1>
+                <h1>Gatos🐱</h1>
             </Container>
         </>
     );

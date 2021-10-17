@@ -11,12 +11,12 @@ export const Container = styled.div`
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 1rem;
+    gap: 1.2rem;
 
     img {
         width: 500px;
         height: 300px;
-        border: 2px solid #8C34E4;
+        border: 5px solid #8C34E4;
         border-radius: 2rem;
     }
 

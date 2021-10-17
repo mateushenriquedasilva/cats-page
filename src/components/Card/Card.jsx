@@ -12,14 +12,13 @@ export default function Card(){
             .then((resp) => setUrlImage(resp.data[0].url))
             .catch((err) => console.log(err))
     },[reload]);
-    
 
     return(
         <Container>
             <img src={urlImage} alt="cats pictures" />
             <button onClick={() => {
                 reload === true ? setReload(false) : setReload(true)
-            }}>Reload</button>
+            }}>Nova Imagem</button>
         </Container>
     );
 }
