@@ -19,7 +19,7 @@ export default function Card(){
             <img src={urlImage} alt="cats pictures" />
             <button onClick={() => {
                 reload === true ? setReload(false) : setReload(true)
-            }}>Reaload</button>
+            }}>Reload</button>
         </Container>
     );
 }
