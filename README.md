@@ -2,9 +2,9 @@
 ---
 ## Tecnologias utilizadas📚
 
-[ReactJS](https://pt-br.reactjs.org/)
-[Styled-Components](https://styled-components.com/)
-[Axios](https://www.npmjs.com/package/axios)
+- [ReactJS](https://pt-br.reactjs.org/)
+- [Styled-Components](https://styled-components.com/)
+- [Axios](https://www.npmjs.com/package/axios)
 
 ---
 
